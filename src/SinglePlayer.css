@@ -1,0 +1,36 @@
+.single-player-container {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    border-radius: 12px;
+    background-color: #3c3b3b;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .single-player-container img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .single-player-container h2 {
+    margin-top: 1rem;
+    font-size: 2rem;
+  }
+  
+  .single-player-container p {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+  }
+  
+  .back-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+  }
